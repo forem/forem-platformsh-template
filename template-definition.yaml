@@ -1,0 +1,11 @@
+version: 1
+
+info:
+  id: andygeorge/forem-platformsh-poc
+  name: forem-platformsh-poc
+
+initialize:
+  repository: git://github.com/andygeorge/forem-platformsh-poc.git@main
+  config: null
+  files: []
+  profile: Ruby on Rails

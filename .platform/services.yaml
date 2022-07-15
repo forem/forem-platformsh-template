@@ -1,0 +1,6 @@
+database:
+  type: postgresql:13
+  disk: 1024
+cache:
+  type: redis-persistent:6.2
+  disk: 256

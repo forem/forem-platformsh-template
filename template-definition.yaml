@@ -5,7 +5,7 @@ info:
   name: forem-platformsh-poc
 
 initialize:
-  repository: git://github.com/andygeorge/forem-platformsh-poc.git@main
+  repository: https://github.com/andygeorge/forem-platformsh-poc.git
   config: null
   files: []
   profile: Ruby on Rails
